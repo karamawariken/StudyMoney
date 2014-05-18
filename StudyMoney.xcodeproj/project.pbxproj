@@ -21,6 +21,8 @@
 		458133351928454300A4C01B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 458133171928454200A4C01B /* UIKit.framework */; };
 		4581333D1928454300A4C01B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4581333B1928454300A4C01B /* InfoPlist.strings */; };
 		4581333F1928454300A4C01B /* StudyMoneyTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4581333E1928454300A4C01B /* StudyMoneyTests.m */; };
+		4581334A19286A5100A4C01B /* SelectLevelViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4581334919286A5100A4C01B /* SelectLevelViewController.m */; };
+		4581334D19286BDA00A4C01B /* SelectCoinViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4581334C19286BDA00A4C01B /* SelectCoinViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,10 @@
 		4581333A1928454300A4C01B /* StudyMoneyTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "StudyMoneyTests-Info.plist"; sourceTree = "<group>"; };
 		4581333C1928454300A4C01B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4581333E1928454300A4C01B /* StudyMoneyTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StudyMoneyTests.m; sourceTree = "<group>"; };
+		4581334819286A5100A4C01B /* SelectLevelViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SelectLevelViewController.h; sourceTree = "<group>"; };
+		4581334919286A5100A4C01B /* SelectLevelViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SelectLevelViewController.m; sourceTree = "<group>"; };
+		4581334B19286BDA00A4C01B /* SelectCoinViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SelectCoinViewController.h; sourceTree = "<group>"; };
+		4581334C19286BDA00A4C01B /* SelectCoinViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SelectCoinViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +123,10 @@
 				458133251928454200A4C01B /* Main.storyboard */,
 				458133281928454200A4C01B /* ViewController.h */,
 				458133291928454200A4C01B /* ViewController.m */,
+				4581334819286A5100A4C01B /* SelectLevelViewController.h */,
+				4581334919286A5100A4C01B /* SelectLevelViewController.m */,
+				4581334B19286BDA00A4C01B /* SelectCoinViewController.h */,
+				4581334C19286BDA00A4C01B /* SelectCoinViewController.m */,
 				4581332B1928454200A4C01B /* Images.xcassets */,
 				4581331A1928454200A4C01B /* Supporting Files */,
 			);
@@ -250,6 +260,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				4581332A1928454200A4C01B /* ViewController.m in Sources */,
+				4581334A19286A5100A4C01B /* SelectLevelViewController.m in Sources */,
+				4581334D19286BDA00A4C01B /* SelectCoinViewController.m in Sources */,
 				458133241928454200A4C01B /* AppDelegate.m in Sources */,
 				458133201928454200A4C01B /* main.m in Sources */,
 			);

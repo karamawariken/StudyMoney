@@ -23,6 +23,20 @@
 		4581333F1928454300A4C01B /* StudyMoneyTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4581333E1928454300A4C01B /* StudyMoneyTests.m */; };
 		4581334A19286A5100A4C01B /* SelectLevelViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4581334919286A5100A4C01B /* SelectLevelViewController.m */; };
 		4581334D19286BDA00A4C01B /* SelectCoinViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4581334C19286BDA00A4C01B /* SelectCoinViewController.m */; };
+		4581335019287B5100A4C01B /* LearnCoinViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4581334F19287B5100A4C01B /* LearnCoinViewController.m */; };
+		4581336019287BE200A4C01B /* coin.psd in Resources */ = {isa = PBXBuildFile; fileRef = 4581335219287BE200A4C01B /* coin.psd */; };
+		4581336119287BE200A4C01B /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4581335419287BE200A4C01B /* 1.png */; };
+		4581336219287BE200A4C01B /* 10.png in Resources */ = {isa = PBXBuildFile; fileRef = 4581335519287BE200A4C01B /* 10.png */; };
+		4581336319287BE200A4C01B /* 100.png in Resources */ = {isa = PBXBuildFile; fileRef = 4581335619287BE200A4C01B /* 100.png */; };
+		4581336419287BE200A4C01B /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = 4581335719287BE200A4C01B /* 5.png */; };
+		4581336519287BE200A4C01B /* 50.png in Resources */ = {isa = PBXBuildFile; fileRef = 4581335819287BE200A4C01B /* 50.png */; };
+		4581336619287BE200A4C01B /* 500.png in Resources */ = {isa = PBXBuildFile; fileRef = 4581335919287BE200A4C01B /* 500.png */; };
+		4581336719287BE200A4C01B /* coin.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4581335A19287BE200A4C01B /* coin.mp3 */; };
+		4581336819287BE200A4C01B /* derucion.gif in Resources */ = {isa = PBXBuildFile; fileRef = 4581335B19287BE200A4C01B /* derucion.gif */; };
+		4581336919287BE200A4C01B /* saifuinto.png in Resources */ = {isa = PBXBuildFile; fileRef = 4581335C19287BE200A4C01B /* saifuinto.png */; };
+		4581336A19287BE200A4C01B /* tana.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4581335D19287BE200A4C01B /* tana.jpg */; };
+		4581336B19287BE200A4C01B /* teno.png in Resources */ = {isa = PBXBuildFile; fileRef = 4581335E19287BE200A4C01B /* teno.png */; };
+		4581336C19287BE200A4C01B /* tentyo.png in Resources */ = {isa = PBXBuildFile; fileRef = 4581335F19287BE200A4C01B /* tentyo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +73,21 @@
 		4581334919286A5100A4C01B /* SelectLevelViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SelectLevelViewController.m; sourceTree = "<group>"; };
 		4581334B19286BDA00A4C01B /* SelectCoinViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SelectCoinViewController.h; sourceTree = "<group>"; };
 		4581334C19286BDA00A4C01B /* SelectCoinViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SelectCoinViewController.m; sourceTree = "<group>"; };
+		4581334E19287B5100A4C01B /* LearnCoinViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LearnCoinViewController.h; sourceTree = "<group>"; };
+		4581334F19287B5100A4C01B /* LearnCoinViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LearnCoinViewController.m; sourceTree = "<group>"; };
+		4581335219287BE200A4C01B /* coin.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = coin.psd; sourceTree = "<group>"; };
+		4581335419287BE200A4C01B /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		4581335519287BE200A4C01B /* 10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 10.png; sourceTree = "<group>"; };
+		4581335619287BE200A4C01B /* 100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 100.png; sourceTree = "<group>"; };
+		4581335719287BE200A4C01B /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
+		4581335819287BE200A4C01B /* 50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 50.png; sourceTree = "<group>"; };
+		4581335919287BE200A4C01B /* 500.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 500.png; sourceTree = "<group>"; };
+		4581335A19287BE200A4C01B /* coin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = coin.mp3; sourceTree = "<group>"; };
+		4581335B19287BE200A4C01B /* derucion.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = derucion.gif; sourceTree = "<group>"; };
+		4581335C19287BE200A4C01B /* saifuinto.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = saifuinto.png; sourceTree = "<group>"; };
+		4581335D19287BE200A4C01B /* tana.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tana.jpg; sourceTree = "<group>"; };
+		4581335E19287BE200A4C01B /* teno.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = teno.png; sourceTree = "<group>"; };
+		4581335F19287BE200A4C01B /* tentyo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tentyo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +156,9 @@
 				4581334919286A5100A4C01B /* SelectLevelViewController.m */,
 				4581334B19286BDA00A4C01B /* SelectCoinViewController.h */,
 				4581334C19286BDA00A4C01B /* SelectCoinViewController.m */,
+				4581334E19287B5100A4C01B /* LearnCoinViewController.h */,
+				4581334F19287B5100A4C01B /* LearnCoinViewController.m */,
+				4581335119287BE200A4C01B /* coin_set */,
 				4581332B1928454200A4C01B /* Images.xcassets */,
 				4581331A1928454200A4C01B /* Supporting Files */,
 			);
@@ -160,6 +192,34 @@
 				4581333B1928454300A4C01B /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		4581335119287BE200A4C01B /* coin_set */ = {
+			isa = PBXGroup;
+			children = (
+				4581335219287BE200A4C01B /* coin.psd */,
+				4581335319287BE200A4C01B /* png */,
+			);
+			path = coin_set;
+			sourceTree = "<group>";
+		};
+		4581335319287BE200A4C01B /* png */ = {
+			isa = PBXGroup;
+			children = (
+				4581335419287BE200A4C01B /* 1.png */,
+				4581335519287BE200A4C01B /* 10.png */,
+				4581335619287BE200A4C01B /* 100.png */,
+				4581335719287BE200A4C01B /* 5.png */,
+				4581335819287BE200A4C01B /* 50.png */,
+				4581335919287BE200A4C01B /* 500.png */,
+				4581335A19287BE200A4C01B /* coin.mp3 */,
+				4581335B19287BE200A4C01B /* derucion.gif */,
+				4581335C19287BE200A4C01B /* saifuinto.png */,
+				4581335D19287BE200A4C01B /* tana.jpg */,
+				4581335E19287BE200A4C01B /* teno.png */,
+				4581335F19287BE200A4C01B /* tentyo.png */,
+			);
+			path = png;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -238,9 +298,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4581336C19287BE200A4C01B /* tentyo.png in Resources */,
+				4581336319287BE200A4C01B /* 100.png in Resources */,
 				4581332C1928454200A4C01B /* Images.xcassets in Resources */,
 				4581331E1928454200A4C01B /* InfoPlist.strings in Resources */,
+				4581336519287BE200A4C01B /* 50.png in Resources */,
+				4581336219287BE200A4C01B /* 10.png in Resources */,
+				4581336619287BE200A4C01B /* 500.png in Resources */,
+				4581336019287BE200A4C01B /* coin.psd in Resources */,
+				4581336A19287BE200A4C01B /* tana.jpg in Resources */,
+				4581336719287BE200A4C01B /* coin.mp3 in Resources */,
+				4581336919287BE200A4C01B /* saifuinto.png in Resources */,
+				4581336419287BE200A4C01B /* 5.png in Resources */,
+				4581336B19287BE200A4C01B /* teno.png in Resources */,
+				4581336819287BE200A4C01B /* derucion.gif in Resources */,
 				458133271928454200A4C01B /* Main.storyboard in Resources */,
+				4581336119287BE200A4C01B /* 1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,6 +334,7 @@
 			files = (
 				4581332A1928454200A4C01B /* ViewController.m in Sources */,
 				4581334A19286A5100A4C01B /* SelectLevelViewController.m in Sources */,
+				4581335019287B5100A4C01B /* LearnCoinViewController.m in Sources */,
 				4581334D19286BDA00A4C01B /* SelectCoinViewController.m in Sources */,
 				458133241928454200A4C01B /* AppDelegate.m in Sources */,
 				458133201928454200A4C01B /* main.m in Sources */,
@@ -474,6 +548,7 @@
 				458133441928454300A4C01B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		458133451928454300A4C01B /* Build configuration list for PBXNativeTarget "StudyMoneyTests" */ = {
 			isa = XCConfigurationList;
@@ -482,6 +557,7 @@
 				458133471928454300A4C01B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
